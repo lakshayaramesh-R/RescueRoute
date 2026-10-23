@@ -67,4 +67,4 @@ This project was created as a learning project to understand graph algorithms, h
 **Note:** RescueRoute is an educational simulation, not a real emergency-navigation system.
 ## 📸 Project Demo
 
-![RescueRoute Demo](rescueroute-demo.png)
+![RescueRoute Demo](Screenshot%202026-10-23%20221536.png)
