@@ -65,3 +65,6 @@ Execution time may vary by computer and run.
 This project was created as a learning project to understand graph algorithms, heuristic search, Python programming, and visualization.
 
 **Note:** RescueRoute is an educational simulation, not a real emergency-navigation system.
+## 📸 Project Demo
+
+![RescueRoute Demo](rescueroute-demo.png)
